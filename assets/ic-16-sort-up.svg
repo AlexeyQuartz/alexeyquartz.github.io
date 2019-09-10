@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="4px" viewBox="0 0 7 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic-16-sort-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="000.-UI-kit" transform="translate(-1483.000000, -4646.000000)" fill="#252525" fill-rule="nonzero">
+            <g id="Group-55" transform="translate(1383.000000, 4279.000000)">
+                <g id="ic-16-sort-up" transform="translate(96.000000, 364.000000)">
+                    <path d="M10.8701172,6.24305556 C10.9567062,6.33101896 11,6.43518458 11,6.55555556 C11,6.67592653 10.9567062,6.78009215 10.8701172,6.86805556 C10.7835282,6.95601896 10.6809902,7 10.5625,7 L4.4375,7 C4.31900982,7 4.21647179,6.95601896 4.12988281,6.86805556 C4.04329384,6.78009215 4,6.67592653 4,6.55555556 C4,6.43518458 4.04329384,6.33101896 4.12988281,6.24305556 L7.19238281,3.13194444 C7.27897179,3.04398104 7.38150982,3 7.5,3 C7.61849018,3 7.72102821,3.04398104 7.80761719,3.13194444 L10.8701172,6.24305556 Z" id="shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

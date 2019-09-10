@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic-24-airlines</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.281901%" y1="63.0741719%" x2="116.617839%" y2="14.291568%" id="linearGradient-1">
+            <stop stop-color="#0077FF" offset="0%"></stop>
+            <stop stop-color="#7DE8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="000.-UI-kit" transform="translate(-1513.000000, -4489.000000)">
+            <g id="Group-55" transform="translate(1383.000000, 4279.000000)">
+                <g id="ic-24-airlines" transform="translate(130.000000, 208.000000)">
+                    <path d="M2.3146353,3.72819999 L0.478422809,2 L9.87130219,2 C11.6032769,2 13.2118972,2.89632344 14.1232064,4.36916158 L23.7946873,20 L7.23094793,20 L3.38605897,5.52512393 C3.20352426,4.83793444 2.83239949,4.21550746 2.3146353,3.72819999 Z M4.94685829,4 C5.10133329,4.3235818 5.22618184,4.6621356 5.31902923,5.01167871 L8.76905207,18 L20.2053127,18 L12.4224447,5.42149695 C11.8756592,4.53779406 10.910487,4 9.87130219,4 L4.94685829,4 Z" id="Rectangle" fill="#0077FF" fill-rule="nonzero"></path>
+                    <path d="M0.461914062,9.01002159 L12.1062042,9.01002159 C14.3145774,11.4515589 16.0236006,13.7670804 17.233274,15.9565862 C18.4429473,18.1460921 19.3630783,20.3846405 19.9936671,22.6722316 C20.0310638,23.1092561 19.7948023,23.1092561 19.2848827,22.6722316 C17.3432153,21.0081336 12.5,16.9804687 8.49749995,15.9565862 C3.91611018,14.7846175 1.23758155,12.469096 0.461914062,9.01002159 Z" id="Rectangle" fill="url(#linearGradient-1)" opacity="0.400000006"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

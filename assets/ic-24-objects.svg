@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic-24-objects</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="79.0039062%" y1="29.7166612%" x2="56.9458008%" y2="59.556071%" id="linearGradient-1">
+            <stop stop-color="#0077FF" offset="0%"></stop>
+            <stop stop-color="#7DE8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="000.-UI-kit" transform="translate(-1472.000000, -4408.000000)">
+            <g id="Group-55" transform="translate(1383.000000, 4279.000000)">
+                <g id="ic-24-objects" transform="translate(89.000000, 128.000000)">
+                    <path d="M13,10.4117647 L13,6.17647059 C13,5.5916985 12.5522847,5.11764706 12,5.11764706 L8,5.11764706 C7.44771525,5.11764706 7,5.5916985 7,6.17647059 L7,8.75735294 L5,8.75735294 L5,6.17647059 C5,4.42215432 6.34314575,3 8,3 L12,3 C13.6568542,3 15,4.42215432 15,6.17647059 L15,10.4118559 C16.106349,10.4222647 17,11.32235 17,12.4311587 L17,18.980606 C17,20.0958865 16.0958865,21 14.980606,21 L5.01939398,21 C3.90411348,21 3,20.0958865 3,18.980606 L3,12.4311587 C3,11.3158782 3.90411348,10.4117647 5.01939398,10.4117647 L13,10.4117647 Z" id="Combined-Shape" fill="#0077FF" fill-rule="nonzero" transform="translate(10.000000, 12.000000) scale(-1, 1) translate(-10.000000, -12.000000) "></path>
+                    <path d="M12.9230769,8.33333333 L12.9230769,1 L24,11.2954915 L12.9230769,23 L12.9230769,15.6666667 L0,15.6666667 L0,8.33333333 L12.9230769,8.33333333 Z" id="Combined-Shape" fill="url(#linearGradient-1)" opacity="0.400000006"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

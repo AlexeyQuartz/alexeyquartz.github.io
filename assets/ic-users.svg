@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic-users</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="25.854456%" y1="75.4937066%" x2="108.031539%" y2="-19.6289062%" id="linearGradient-1">
+            <stop stop-color="#0077FF" offset="0%"></stop>
+            <stop stop-color="#7DE8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="000.-UI-kit" transform="translate(-2104.000000, -1930.000000)">
+            <g id="Group-70" transform="translate(1700.000000, 1478.000000)">
+                <g id="Group-12" transform="translate(374.000000, 44.000000)">
+                    <g id="ul-li" transform="translate(0.000000, 202.000000)">
+                        <g id="01">
+                            <g id="1.1-1.5" transform="translate(0.000000, 48.000000)">
+                                <g id="1.4" transform="translate(30.000000, 144.000000)">
+                                    <g id="ic-users" transform="translate(0.000000, 10.000000)">
+                                        <path d="M15.105558,15.0868112 C18.4462396,15.6168521 21,18.5101947 21,22 L21,24 L19,24 L19,22 C19,19.2385763 16.7614237,17 14,17 L7,17 C4.23857625,17 2,19.2385763 2,22 L2,24 L0,24 L0,22 C0,18.5101947 2.55376036,15.6168521 5.89444204,15.0868112 C4.72367738,13.9112914 4,12.2901577 4,10.5 C4,6.91014913 6.91014913,4 10.5,4 C14.0898509,4 17,6.91014913 17,10.5 C17,12.2901577 16.2763226,13.9112914 15.105558,15.0868112 Z M10.5,15 C12.9852814,15 15,12.9852814 15,10.5 C15,8.01471863 12.9852814,6 10.5,6 C8.01471863,6 6,8.01471863 6,10.5 C6,12.9852814 8.01471863,15 10.5,15 Z" id="Combined-Shape" fill="#0077FF" fill-rule="nonzero"></path>
+                                        <path d="M13.1927229,16.0078639 C12.4615749,15.2747371 12,14.1989723 12,13 C12,10.790861 13.5670034,9 15.5,9 C17.4329966,9 19,10.790861 19,13 C19,14.1946925 18.5417145,15.2670555 17.8150963,16 L18.5789474,16 C21.0206273,16 23,18.6862915 23,22 L23,24 L9,24 L9,22 C9,18.7902219 10.8571586,16.1691216 13.1927229,16.0078639 Z" id="Combined-Shape" fill="url(#linearGradient-1)" opacity="0.400000006"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
